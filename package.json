@@ -1,0 +1,14 @@
+{
+  "name": "titan_backedAPP",
+  "version": "1.0.0",
+  "description": "My first app",
+  "main": "server.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "author": "Magdalena Ivanova",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
