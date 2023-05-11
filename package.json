@@ -2,9 +2,9 @@
   "name": "titan_backedAPP",
   "version": "1.0.0",
   "description": "My first app",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "server.js"
+    "start": "node index.js"
   },
   "author": "Magdalena Ivanova",
   "license": "ISC",
